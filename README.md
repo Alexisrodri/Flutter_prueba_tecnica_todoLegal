@@ -6,8 +6,7 @@
 
 Esta es una aplicación en Flutter que implementa varias funcionalidades clave y sigue una arquitectura basada en la organización de carpetas en `domain` e `infrastructure`. La aplicación permite la manipulación de archivos, cambio de temas, visualización de PDF y la gestión de datos localmente usando la base de datos Isar.
 
-### Version de Flutter
-
+Version de flutter
    ```bash
    Flutter 3.24.1 • channel stable
    Dart 3.5.1 • DevTools 2.37.2
